@@ -1,34 +1,55 @@
-# Hi, I'm Gehad (jihad696) 👋
+<h1 align="center">
+  Hi, I'm Gehad <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"/>
+</h1>
 
-I’m a junior full-stack developer focused on **Python** and **React.js**.  
-I build simple, well-structured web applications and APIs.
-
----
-
-## 🔧 Tech Stack
-
-- **Backend**: Python, Django, FastAPI, Flask  
-- **Frontend**: React.js  
-- **Database**: MySQL, PostgreSQL (or whatever you use)  
-- **Tools**: Git, REST APIs
+<p align="center">Junior Full-Stack Developer (Python & React.js)</p>
 
 ---
 
-## 🌱 Learning & Growing
-
-- Improving my full-stack architecture  
-- Getting better at writing clean APIs  
-- Learning testing (e.g. pytest)  
-- Exploring deployment & DevOps basics (Docker, etc.)
-
----
-
-
-## 📫 How to Reach Me
-
-- Email: **your-email@example.com**  
-- LinkedIn: **[Your LinkedIn Profile]**
+### 👨‍💻 About Me
+- I enjoy building simple and clean web applications  
+- Interested in backend frameworks like **Django**, **FastAPI**, and **Flask**  
+- Learning more about **React.js** and frontend architecture  
+- Always improving my skills step by step  
 
 ---
 
-Thanks for stopping by! 😊  
+### 🔧 Tech Stack
+**Backend:** Python, Django, FastAPI, Flask  
+**Frontend:** React.js  
+**Database:** MySQL, PostgreSQL  
+**Tools:** Git, REST APIs  
+
+---
+
+### 📈 GitHub Overview
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jihad696&show_icons=true&theme=default" height="150" />
+</p>
+
+---
+
+### 🧠 HackerRank
+<p>
+  I also practice Python on HackerRank to improve my logic and problem-solving:  
+  👉 <a href="https://www.hackerrank.com/domains/python" target="_blank">HackerRank – Python Domain</a>
+</p>
+
+---
+
+### 🧰 Skills Icons
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,react,mysql,git,github" />
+</p>
+
+---
+
+### 📫 Contact
+- Email: **gehadb66@gmail.com**  
+- LinkedIn: **https://www.linkedin.com/in/gehad-baleegh-447099316/**
+
+---
+
+<p align="center">
+  Thanks for visiting! 😊
+</p>
