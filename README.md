@@ -49,6 +49,9 @@
 - LinkedIn: **https://www.linkedin.com/in/gehad-baleegh-447099316/**
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jihad696/jihad696/main/dist/snake.svg" />
+</p>
 
 
 <p align="center">
