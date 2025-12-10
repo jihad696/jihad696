@@ -49,10 +49,6 @@
 - LinkedIn: **https://www.linkedin.com/in/gehad-baleegh-447099316/**
 
 ---
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jihad696/jihad696/output/snake.svg" />
-</p>
 
 
 <p align="center">
