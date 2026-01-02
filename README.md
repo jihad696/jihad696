@@ -6,7 +6,7 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 - I enjoy building simple and clean web applications  
 - Interested in backend frameworks like **Django**, **FastAPI**, **Flask**, and **Odoo**  
 - Learning more about **React.js** and frontend architecture  
